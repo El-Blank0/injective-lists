@@ -2205,5 +2205,13 @@ export const symbolMeta: Record<string, TokenSymbolMeta> = {
     logo: 'lifebusiness-coin.svg',
     symbol: 'LBC',
     coinGeckoId: '',
+  },
+  
+  BUBBA: {
+    decimals: 6,
+    symbol: 'BUBBA',
+    name: 'Bubba',
+    logo: 'bubba.png',
+    coinGeckoId: ''
   }
 }
