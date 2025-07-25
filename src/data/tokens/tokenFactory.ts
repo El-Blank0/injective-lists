@@ -502,5 +502,9 @@ export const mainnetTokens: TokenFactorySource[] = [
   {
     ...symbolMeta.TIX,
     creator: 'inj1khttezjv9x6dpadysffpf7m00rch2ldhezz7s2'
+  },
+  {
+    ...symbolMeta.BUBBA,
+    creator: 'inj1arkjhzla3jyu7wpkt8p68s7y4cd0sqjm4cpchw'
   }
 ]
